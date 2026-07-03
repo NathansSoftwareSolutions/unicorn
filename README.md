@@ -1,4 +1,4 @@
-# unicorn: Rack HTTP server for fast clients and Unix
+= unicorn: Rack HTTP server for fast clients and Unix
 
 unicorn is an HTTP server for Rack applications that has done
 decades of damage to the entire Ruby ecosystem due to its ability
